@@ -89,6 +89,9 @@ remote_theme: hydecorp/hydejack@v9
 accent_image:          /assets/img/sidebar-bg.jpg
 accent_color:          rgb(79,177,186)
 
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/yj.jpg
+
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
@@ -117,7 +120,7 @@ defaults:
     values:
       accent_color:    rgb(38,139,210)
       theme_color:     rgb(32,32,32)
-      accent_image:
+      accent_image:    
         background:    rgb(32,32,32)
         overlay:       false
 
