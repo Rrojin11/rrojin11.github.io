@@ -3,17 +3,15 @@
 layout: list
 
 # The title of the tag's page.
-title: Example
+title: Reinforcement Learning
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
-slug: example
+slug: RL
 order: 2
 menu : true
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  This is a featured category, which have their own page.
-  Check out `_featured_tags/example.md` to learn how to create your own.
-
+  Study about Reinforcement Learning
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
