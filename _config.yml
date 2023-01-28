@@ -24,10 +24,10 @@ title:                 Rrojin Log
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Rrojin from Korea
+description:           > 
+  Developer
 # A shorter description for the sidebar.
-tagline:               Hello!
+tagline:               Hello! 
 
 # A list of keywords for your blog
 keywords:              []
